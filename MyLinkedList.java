@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class MyLinkedList <E> implements Iterable <E> {
+public class MyLinkedList <E> implements Iterable <E> //should implement interface which defines methods of LinkedList {
 	
 	//Class representation of a single node
 	//each node has a previous and next //pointer, as well as, 
